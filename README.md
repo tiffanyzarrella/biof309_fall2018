@@ -1,4 +1,4 @@
-Syllabus
+Syllabus for Sara's favorite class!!!!!!
 ========
 
 **Introduction to Python Programming - BIOF309 - FAES**
